@@ -1,0 +1,27 @@
+# Build outputs
+build/
+app/build/
+*.apk
+*.aab
+*.ap_
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Local configuration – enthält SDK-Pfad, nicht ins Repo
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+/shelf/
+/workspace.xml
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc

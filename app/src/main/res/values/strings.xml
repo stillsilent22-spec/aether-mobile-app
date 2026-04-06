@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aether</string>
+    <string name="title">Aether Node</string>
+    <string name="subtitle">Lokaler Analyse-Knoten — kein Cloud, keine Rohdaten.</string>
+    <string name="start_node">Start</string>
+    <string name="stop_node">Stop</string>
+    <string name="open_termux">Termux öffnen</string>
+    <string name="status_idle">Status: bereit</string>
+    <string name="status_starting">Knoten startet …</string>
+    <string name="status_stopped">Knoten gestoppt.</string>
+    <string name="label_cascade_metrics">Cascade-Metriken (letzter Run)</string>
+    <string name="label_log">Log</string>
+    <!-- Legacy Termux strings (unused in standalone mode) -->
+    <string name="status_start_sent">Gestartet.</string>
+    <string name="status_start_failed">Start fehlgeschlagen.</string>
+    <string name="status_stop_sent">Gestoppt.</string>
+    <string name="status_stop_failed">Stop fehlgeschlagen.</string>
+    <string name="termux_missing_title">Termux nicht gefunden</string>
+    <string name="termux_missing_message">Termux wird für diesen Modus nicht benötigt.</string>
+    <string name="open_f_droid">F-Droid öffnen</string>
+</resources>
